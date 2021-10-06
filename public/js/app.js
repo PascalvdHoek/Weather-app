@@ -19,5 +19,4 @@ contentBlock.innerHTML = `
   } else {
     console.log('You should enter an valid location');
   }
-  console.log('testing!');
 });
